@@ -1,21 +1,16 @@
-<h1 align='center'>ESX PUNSIHMENT NYAPU TAMKOT</a></h1><p align='center'><b><a href='https://discord.esx-framework.org/'>Discord</a> - <a href='[https://documentation.esx-framework.org/legacy/installation](https://discord.gg/gn5a6z97Tc)'>Documentation</a></b></h5>
+<h1 align='center'>ESX PUNSIHMENT NYAPU TAMKOT</a></h1><p align='center'><b><a href='https://discord.gg/gn5a6z97Tc'>Discord</a> - <a href=''>Documentation</a></b></h5>
 
 We've brought you a clean, modern HUD that's easy to customise and configure. Integrated mileage calculation and more.
 
 Features
- - Mileage calculation system
- - Indicator system with sound effect
- - Weapon HUD with ammo counter
- - Online player counter
- - Job label
- - Switch to mph or kmh
- - Color picker that allows you to customize the interface
- - Settings panel for additional settings
- - Different speedo layouts depending on vehicle type(LAND,AIR)
- - Seatbelt system with sound effect (Required script: esx_cruisecontrol)
+ - Memberikan Hukuman Kepada Player Berupa Menyapu Di Taman Kota
+ - Membatalkan hukuman Kepada Player
+ - Memberikan 5 Burger Dan 5 Water After Menyelesaikan Hukuman
+ - Jika Player Yang Dikenakan Hukuman Kabur Akan Kembali Ke Tempat Hukuman Sampai Selesai Hukumannya
+ - Otomatis Change Clothes Pada Saat Dikenakan Hukuman
 
-## HUD UI
-![img.png](img.png)
+## GAMBARAN
+[![img.png](img.png)](https://cdn.discordapp.com/attachments/1319631547019694081/1347620395444076676/image.png?ex=67cc7ccb&is=67cb2b4b&hm=b965fb8d3c8ee5ff7daaf8e16266ba62e8603effe6f68696fd53e1660d59ae10&)
 ## SETTINGS UI
 ![img_1.png](img_1.png)
 
